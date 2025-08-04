@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tp_academia", "tp_academia\tp_academia.csproj", "{B525BEE5-AAF1-4118-B533-00E474F3E23F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{6FBA61CE-BF99-4F06-BA4B-399B611CFA61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormMenu", "FormMenu\FormMenu.csproj", "{3E8591D5-73E6-4511-BAAF-0E72738E1A25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B525BEE5-AAF1-4118-B533-00E474F3E23F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B525BEE5-AAF1-4118-B533-00E474F3E23F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B525BEE5-AAF1-4118-B533-00E474F3E23F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B525BEE5-AAF1-4118-B533-00E474F3E23F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FBA61CE-BF99-4F06-BA4B-399B611CFA61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FBA61CE-BF99-4F06-BA4B-399B611CFA61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FBA61CE-BF99-4F06-BA4B-399B611CFA61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FBA61CE-BF99-4F06-BA4B-399B611CFA61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E8591D5-73E6-4511-BAAF-0E72738E1A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E8591D5-73E6-4511-BAAF-0E72738E1A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E8591D5-73E6-4511-BAAF-0E72738E1A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E8591D5-73E6-4511-BAAF-0E72738E1A25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC977185-502B-446B-914C-B443A5909415}
+	EndGlobalSection
+EndGlobal
